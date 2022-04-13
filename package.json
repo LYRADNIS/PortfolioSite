@@ -1,0 +1,22 @@
+{
+  "name": "portfoliosite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LYRADNIS/PortfolioSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LYRADNIS/PortfolioSite/issues"
+  },
+  "homepage": "https://github.com/LYRADNIS/PortfolioSite#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
